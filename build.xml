@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="GynLog" default="default" basedir=".">
+    <description>Builds, tests, and runs the project GynLog.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
